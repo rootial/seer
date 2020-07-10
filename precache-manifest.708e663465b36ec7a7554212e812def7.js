@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "492b68a70e191fb2af4b1fceac82fc2e",
+    "revision": "fd2e8045a00707e1599eb07e66858b3d",
     "url": "/seer/index.html"
   },
   {
-    "revision": "3cbf5731e50d3067a65a",
+    "revision": "4aa8cb42f57766f94638",
     "url": "/seer/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/seer/static/js/2.7b3995c1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3cbf5731e50d3067a65a",
-    "url": "/seer/static/js/main.21327499.chunk.js"
+    "revision": "4aa8cb42f57766f94638",
+    "url": "/seer/static/js/main.53411d5f.chunk.js"
   },
   {
     "revision": "2597ed06921f59f2a5af",
     "url": "/seer/static/js/runtime-main.d015728f.js"
   },
   {
-    "revision": "a8dff6706db2b3165892c2a9ebcfc53e",
-    "url": "/seer/static/media/Pic1.a8dff670.png"
+    "revision": "157202cd6e000bf5f3a366a65c03ad42",
+    "url": "/seer/static/media/Pic1.157202cd.png"
   },
   {
     "revision": "bdc73b9eb85975666621574055828995",
